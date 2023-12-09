@@ -1,0 +1,128 @@
+* {
+  font-size: inherit;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: Inter, sans-serif;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+button,
+input[type=submit]{
+  font-size: 1.2rem;
+  color: #FCFCFD;
+  background: #2F80ED;
+
+}
+
+button:hover,
+input[type=submit]:hover{
+  transition: 0.3s;
+  background-color: #0056b3;
+}
+
+.register-cont {
+  width: 100vw;
+  background: url("https://res.cloudinary.com/dpfqbb9pl/image/upload/v1700078667/swiftselectbackground_j5bqnf.jpg") no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.register-form {
+  margin-inline: auto;
+  padding: 0 3rem;
+  border-radius: 12px;
+  background-color: rgb(255, 255, 255);
+}
+
+.register-form label {
+  font-family: Hanalei Fill, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.15px;
+  position: relative;
+  top: 0.7rem;
+  left: 0.8rem;
+  z-index: 1;
+  width: fit-content;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding-inline: 0.5em;
+}
+
+.register-form input,
+.select-tab {
+  padding: 8px 16px;
+}
+
+.select-tab {
+  height: 2.5rem;
+}
+
+.register-form .pass-input {
+  position: relative;
+}
+
+.password-toggle {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  cursor: pointer;
+  color: #007bff;
+}
+
+.logo img{
+  width: 4.5rem;
+  position: relative;
+  bottom: -0.5rem;
+  margin-right: 0.5rem;
+}
+
+.top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gateway {
+  display: flex;
+  border-radius: 8px;
+  border: 1px solid #D0D5DD;
+  background: #FFF;
+  justify-content: center;
+  align-self: stretch;
+  padding: 12px 16px;
+  margin: 20px auto;
+  align-items: center;
+  gap: 10px;
+}
+
+.divider {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.profile-nav:hover {
+  border-bottom: solid 2px;
+}
+
+.profile-nav {
+  border: solid 2px white;
+}
+
+.active-nav {
+  border-bottom: solid 2px rgb(59, 130, 246);
+  color: rgb(59, 130, 246);
+}
+
+ul li {
+  list-style-type: disc;
+}

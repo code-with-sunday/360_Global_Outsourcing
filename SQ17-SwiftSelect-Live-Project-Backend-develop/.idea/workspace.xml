@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8743dd5a-d60a-4bbd-ac0c-99e5f0cb3224" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/infrastructure/configurations/securityconfig/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/infrastructure/configurations/securityconfig/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/infrastructure/controllers/jobpostcontrollers/JobPostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/infrastructure/controllers/jobpostcontrollers/JobPostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/infrastructure/controllers/jobseekercontrollers/JobSeekerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/infrastructure/controllers/jobseekercontrollers/JobSeekerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/infrastructure/controllers/notificationcontrollers/NotificationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/infrastructure/controllers/notificationcontrollers/NotificationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/repositories/NotificationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/repositories/NotificationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/services/JobPostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/services/JobPostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/services/JobSeekerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/services/JobSeekerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/services/serviceImpl/JobPostServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/services/serviceImpl/JobPostServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/services/serviceImpl/JobSeekerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/services/serviceImpl/JobSeekerServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.NewClass" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Z5gsnc5h4FLiNsTYMHWZXm9K3t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "feature/api-consumption",
+    "last_opened_file_path": "/Users/mac/Desktop/SWIFTSELECTPROJECTLATEST/SQ17-SwiftSelect-Live-Project-Backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.elm.workspace.PROJECT_DISCOVERY": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "d457a0bd044a26c234d1d75e1136f922",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SwiftselectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="API_KEY" value="761868682717488" />
+        <env name="API_SECRET" value="9iGv640bMtBx31khQFhQCpXVUak" />
+        <env name="CHAT_ENGINE_PRIVATE_KEY" value="48c3d381-cfd6-4d7c-9bfe-80bb441290a4" />
+        <env name="CHAT_ENGINE_PROJECT_ID" value="95909330-4295-4156-bd8a-8b70b1e062d7" />
+        <env name="CLOUD_NAME" value="dpfqbb9pl" />
+        <env name="EMAIL" value="swiftselect12@gmail.com" />
+        <env name="PASSWORD" value="jbgooqghhskeozcj" />
+      </envs>
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="swiftselect" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.swiftselect.SwiftselectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8743dd5a-d60a-4bbd-ac0c-99e5f0cb3224" name="Changes" comment="" />
+      <created>1701717585702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701717585702</updated>
+      <workItem from="1701717596102" duration="11600000" />
+      <workItem from="1701737532620" duration="8991000" />
+      <workItem from="1701737532620" duration="8456000" />
+      <workItem from="1701763944714" duration="14635000" />
+      <workItem from="1701763497356" duration="6738000" />
+      <workItem from="1701785205098" duration="1525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
